@@ -1,0 +1,21 @@
+{
+  "name": "purpleschool-theme",
+  "displayName": "PurpleSchool Theme",
+  "description": "Тема для Visual Studio Code от PurpleSchool",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PurpleSchool Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PurpleSchool Theme-color-theme.json"
+      }
+    ]
+  }
+}
