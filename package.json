@@ -1,8 +1,10 @@
 {
   "name": "purpleschool-theme",
   "displayName": "PurpleSchool Theme",
-  "description": "Тема для Visual Studio Code от PurpleSchool",
+  "description": "Visual Studio Code Theme by PurpleSchool",
   "version": "0.0.1",
+  "publisher": "purpleschool",
+  "repository": "https://github.com/PurpleSchool/vscode-theme",
   "engines": {
     "vscode": "^1.88.0"
   },
