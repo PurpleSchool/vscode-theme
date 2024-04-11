@@ -2,6 +2,7 @@
   "name": "purpleschool-theme",
   "displayName": "PurpleSchool Theme",
   "description": "Visual Studio Code Theme by PurpleSchool",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "publisher": "purpleschool",
   "repository": "https://github.com/PurpleSchool/vscode-theme",
